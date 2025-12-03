@@ -1,6 +1,6 @@
 {
-  "name": "PataCoins",
-  "symbol": "PTC",
-  "description": "The official currency of the Patacones ecosystem! 💰",
-  "image": "https://raw.githubusercontent.com/MiguelWebThreeConsulting/patacoins-metadata/main/assets/patacoin.jpeg"
+  "name": "Test USD",
+  "symbol": "TUSD",
+  "description": "Fake SPL Token used for testing purposes ",
+  "image": "https://raw.githubusercontent.com/MiguelWebThreeConsulting/patacoins-metadata/main/assets/image.png"
 }
